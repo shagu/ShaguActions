@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cffffcc00Shagu|cffffffffActions
+## Author: Shagu
+## Notes: No Description
+## Version: 0.1
+## SavedVariables: ShaguActions_DB
+
+ShaguActions.lua
